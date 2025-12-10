@@ -25,45 +25,29 @@ Este repositorio es mi espacio personal de práctica y organización. Aquí alma
 
 ---
 
-## 📖 Índice del Cuaderno (Navegación Rápida)
+## 📖 Índice del Cuaderno (Navegación)
 
-Utiliza la siguiente tabla para navegar directamente a la documentación y el código de cada área:
+Utiliza la siguiente tabla para explorar las áreas de código:
 
 <table>
 <thead>
 <tr>
 <th width="33%">Área</th>
-<th width="33%">Conceptos Clave</th>
-<th width="33%">Acceso Rápido</th>
+<th width="67%">Conceptos Clave</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>🐍 **Python**</td>
-<td>Estructuras de Datos, Algoritmos, Automatización, Manipulación de Archivos.</td>
-<td align="center">
-<a href="./Python/README.md">
-<img src="https://img.shields.io/badge/Explorar-5B80B6?style=flat-square&logo=python&logoColor=fff" />
-</a>
-</td>
+<td>🐍 Python </td>
+<td>Estructuras de Datos, Algoritmos, Automatización, Manipulación de Archivos, Scripting.</td>
 </tr>
 <tr>
-<td>☕ **Java**</td>
-<td>Programación Orientada a Objetos (POO), Estructuras de Control, Manejo de Excepciones.</td>
-<td align="center">
-<a href="./Java/README.md">
-<img src="https://img.shields.io/badge/Explorar-5B80B6?style=flat-square&logo=java&logoColor=fff" />
-</a>
-</td>
+<td>☕ Java </td>
+<td>Programación Orientada a Objetos (POO), Estructuras de Control, Manejo de Excepciones, Patrones de Diseño.</td>
 </tr>
 <tr>
-<td>🌐 **JavaScript / HTML / CSS**</td>
-<td>Manipulación del DOM, Diseño Responsivo, Flexbox/Grid, Funciones Asíncronas, Interacciones Web.</td>
-<td align="center">
-<a href="./JavaScript/README.md">
-<img src="https://img.shields.io/badge/Explorar-5B80B6?style=flat-square&logo=javascript&logoColor=000" />
-</a>
-</td>
+<td>🌐 WEB (JS/HTML/CSS) </td>
+<td>Manipulación del DOM, Diseño Responsivo, Flexbox/Grid, Funciones Asíncronas, Interacciones del lado del cliente.</td>
 </tr>
 </tbody>
 </table>
